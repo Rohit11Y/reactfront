@@ -35,7 +35,7 @@ const Formpage = () => {
 					<div class="container__overlay">
 						<div class="overlay">
 							<div class="overlay__panel overlay--left">
-								<button class="btn" id="signIn">Sign In</button>
+								<button class="btn" id="signIn">Change</button>
 							</div>
 							<div class="overlay__panel overlay--right">
 								<button class="btn" id="signUp">Sign Up</button>
